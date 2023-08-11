@@ -1,8 +1,8 @@
 {
 	"name": "Deploy",
-	"description": "inrl-md",
+	"description": "dennis-md",
 	"keywords": [
-		"inrl"
+		"dennis"
 	],
 	"repository": "https://github.com/inrl-official/inrl-bot-md",
 	"stack": "container",
