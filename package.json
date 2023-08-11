@@ -1,5 +1,5 @@
 {
-  "name": "inrl-bot-md",
+  "name": "dennis-bot-md",
   "version": "3.0.1",
   "description": "WhatsApp bot made with nodejs and baileys",
   "main": "index.js",
